@@ -62,7 +62,7 @@ Built with **MVC architecture**, **MongoDB** (via Mongoose), **Prettier**, **ESL
 
 ```bash
 git clone https://github.com/Ahmad-Faraj/student-doctor-api.git
-cd API-Task
+cd student-doctor-api
 npm install
 ```
 
