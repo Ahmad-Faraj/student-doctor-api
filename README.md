@@ -61,7 +61,7 @@ Built with **MVC architecture**, **MongoDB** (via Mongoose), **Prettier**, **ESL
 ## Installation
 
 ```bash
-git clone https://github.com/SCU-Back-End/API-Task.git
+git clone https://github.com/Ahmad-Faraj/student-doctor-api.git
 cd API-Task
 npm install
 ```
